@@ -2,3 +2,4 @@
 *.zip
 *.?z*
 *.doc*
+**/.vscode
