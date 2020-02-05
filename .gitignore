@@ -1,6 +1,4 @@
-*.bz2
 *.rar
 *.zip
-*.xz
-*.gz
+*.?z*
 *.doc*
